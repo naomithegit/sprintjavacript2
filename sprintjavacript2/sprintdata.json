@@ -1,0 +1,11 @@
+[
+    {"id": 1, "name": "Babs", "age": 78, "team": "Giants", "city": "New York", "believer": true},
+    {"id": 2, "name": "Kramer", "age": 46,"team": "Rams", "city": "Los Angeles","believer": false},
+    {"id": 3, "name": "Newman", "age": 39,"team": "Bears", "city": "Chicago","believer": true},
+    {"id": 4, "name": "Lloyd Braun", "age": 42,"team": "49ers", "city": "San Francisco","believer": false},
+    {"id": 5, "name": "Vegetarian Lasagna", "age": 54,"team": "Raiders", "city": "Las Vegas","believer": true},
+    {"id": 6, "name": "The Maestro", "age": 59,"team": "Packers", "city": "Green Bay","believer": false},
+    {"id": 7, "name": "Bob Sacamano", "age": 38,"team": "Patriots", "city": "Boston","believer": false},
+    {"id": 8, "name": "Candy Heiress", "age": 35,"team": "Lions", "city": "Detoit","believer": true}
+
+]
